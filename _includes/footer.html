@@ -1,0 +1,50 @@
+    {% if site.footer_fixed %}
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        <!-- Added -->
+        <h5 style="text-align: left;">Brought you by</h5>
+        <div class="row">
+          <div class="col-md-12 text-center" style="max-width: 95%; max-height: 300px;">
+            <img alt="infn-logo" src="{{ site.baseurl }}/assets/img/sponsors/infn-logo.png" style="display: inline-block !important; max-width: 30% !important;">
+            <img alt="4ch-logo"  src="{{ site.baseurl }}/assets/img/sponsors/4CH_logo.png"  style="display: inline-block !important; max-width: 30% !important; ">
+            <img alt="icsc-logo" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png" style="display: inline-block !important; max-width: 35% !important;">
+          </div>
+        </div>
+        <!-- /Added -->
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- else -%}
+    <footer class="sticky-bottom mt-5">
+      <div class="container" style="max-width: 870px;">
+        <!-- Added -->
+        <h5 style="text-align: left;">Brought you by</h5>
+        <div class="row">
+          <div class="col-md-12 text-center" style="max-width: 95%; max-height: 300px;">
+            <img alt="infn-logo" src="{{ site.baseurl }}/assets/img/sponsors/infn-logo.png" style="display: inline-block !important; max-width: 20% !important; max-height: fit-content; vertical-align: bottom;">
+            <img alt="4ch-logo"  src="{{ site.baseurl }}/assets/img/sponsors/4CH_logo.png"  style="display: inline-block !important; max-width: 30% !important; max-height: fit-content; vertical-align: bottom;">
+            <img alt="icsc-logo" src="{{ site.baseurl }}/assets/img/sponsors/icsc-logo.png" style="display: inline-block !important; max-width: 45% !important; max-height: fit-content; vertical-align: bottom;">
+          </div>
+        </div>
+        <!-- -->
+        <div> 
+          <img style="vertical-align:middle; max-width: 30px !important;" src="{{ site.baseurl }}/assets/img/sponsors/european-commission_0.jpg"> 
+          <i>4CH is a Horizon 2020 project funded by the European Commission under Grant Agreement n.101004468-4CH.</i>
+        </div>
+        <!-- /Added -->
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- endif %}
