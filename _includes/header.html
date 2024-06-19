@@ -34,7 +34,7 @@
             <span class="icon-bar bottom-bar"></span>
           </button>
 
-          <div class="collapse navbar-collapse text-right" id="navbarNav">
+          <div class="collapse navbar-collapse text-left" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               {%- for page in site.pages -%}
@@ -96,8 +96,8 @@
               {% endfor -%}
 
               <!-- Poster attachment -->
-              <li class="nav-item {% if page.url contains 'poster' %}active{% endif %}"></li>
-                <a class="nav-link" href="{{ 'assets/pdf/poster.pdf' | relative_url }}">poster</a>
+              <!-- <li class="nav-item {% if page.url contains 'poster' %}active{% endif %}"></li>
+                <a class="nav-link" href="{{ 'assets/pdf/poster.pdf' | relative_url }}">poster</a> -->
             </li>
 
               {%- if site.enable_darkmode %}
