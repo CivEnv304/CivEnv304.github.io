@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: EIO-LCA
-email: bombini@fi.infn.it
+email: jingyu2021@u.northwestern.edu
 description: >
   An showcase about EIO-LCA tool and projects
 footer_text: >
@@ -15,7 +15,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: NUcon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://JingYu-NU.github.io
-baseurl: /eio-lca
+baseurl:
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:
 
