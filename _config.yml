@@ -14,7 +14,7 @@ keywords: Environmental, Sustainability, Economic Input-Output Analysis
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: NUcon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://physicsmeetsai.github.io
+url: https://JingYu-NU.github.io
 baseurl: /eio-lca
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:
