@@ -23,7 +23,7 @@ By this video, we wish to guide the users on how to use provided tools and resou
 
 This is the Matlab version of the 2017 industry-by-industry model of the US economy. It is intended for users with an advanced understanding of economic input-output life cycle assessment. The file loads data from [USEEIOv2.01-411](https://catalog.data.gov/dataset/useeio-v2-0-1-411), and this is where we expect updates. The script will calculate economic, social, and environmental impact/outputs. You need to have Matlab and Microsoft Office installed on your computer to use this tool fully.
 
-The tool is available at [EIO-LCA Tool](https://github.com/JingYu-NU/EIO-LCA-tool).
+The tool is available at [EIO-LCA Tool](https://github.com/CivEnv304/EIO-LCA-tool.git).
 
 ## Files included in this archive
 
