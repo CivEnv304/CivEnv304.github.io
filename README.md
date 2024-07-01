@@ -1,35 +1,33 @@
-Environmental Input-Output life cycle assessment.
+# Beyond Vision: Physics meets AI
+The workshop Beyond Vision: Physics meets AI ([BVPAI 2023](https://physicsmeetsai.github.io/beyond-vision)), to be held during the 22nd International Conference on Image Analysis and Processing ([ICIAP 2023](https://iciap2023.org)), is the first ICIAP workshop dedicated to applications of Statistical Learning methods and Artificial Intelligence techniques to Nuclear and other Physics-based Imaging technologies.
 
+## Topics
 
-### Introduction
+The workshop is organized in two main tracks:
 
-This website has resources to carry out Economic Input-Output (environmental and social) Lifecycle Assessments(EIO-LCA) of goods and services.  It is envisioned as a resource for students and analysts to carry out these analyses. The website includes video tutorials, examples, computational tools, and other resources developed for Northwestern University's [CivEnv 304: Civil & Environmental Engineering Systems Analysis](https://www.mccormick.northwestern.edu/civil-environmental/academics/courses/descriptions/304.html). 
+**1. _Nuclear & other Physics-based Imaging technologies_**
+  - Nuclear (& other Physics-based extended)  Computer Vision for Cultural Heritage
+  - Particle Accelerators applications: imaging, software and statistical analysis
+  - Stastical learning for Astronomy
+  - X-ray, Neutron and Proton image analysis and processing for Medical Physics
+  - AI-enhanced experimental apparatus
+  - Neutron and X-Ray-based Tomographic analysis for applied physics
+  - Multimodal analysis methods
 
+**2. _Generative Models & other disruptive Deep Learning methods for Physical Sciences_**
+  - Density estimation
+  - Anomaly detection
+  - Physics-informed systems
+  - Fast detector simulation
+  - Synthetic data augmentation
+  - Other SOTA methods for Physics Data Analysis and processing
 
-### Background on Environmental LCAs
-We provide a video that introduces Life Cycle Assessment (LCA) and the Economic Input-Output Life Cycle Assessment (EIO-LCA) method, explaining how they measure the social, environmental, and economic impacts of products and services. The purpose is to provide a conceptual understanding of these assessments and their complexities, preparing viewers for performing LCAs and implementing the computational resource provided in this website.
+## Key dates and information
 
-<a href="{{ site.baseurl }}/Methodologies">Background on Environmental LCAs </a>
-
-Readers might refer to the [VentureWell website](https://venturewell.org/tools_for_design/measuring-sustainability/) for more background information, resources and examples about LCA,
-
-### LCA computational resources
-We provide a demonstration video about the details of performing EIO-LCA using a t-shirt example. It aims to provide knowledges about how to calculate and interpret the economic and environmental impacts of manufacturing, transportation, and retailing, using provided tools and resources.
-
-<a href="{{ site.baseurl }}/lca-tool">LCA computational resources (available in Excel and Matlab) </a>
-
-
-### Student projects
-
-We provide several student projects that use the EIO-LCA tool from [2024SP_CIV_ENV_304](https://www.mccormick.northwestern.edu/civil-environmental/academics/courses/descriptions/304.html) as examples of applications of this LCA computational tool.
-
-<a href="{{ site.baseurl }}/student projects">Student Projects </a>
-<!-- For academic icons: https://jpswalsh.github.io/academicons/ -->
-
-
-### Contact
-
-:mailbox_with_mail: For any questions, please contact us at our institutional emails: CivEnv304@gmail.com.
+- **Paper submission deadline:** July 10th, 2023
+- **Decision to authors:** July 31st, 2023
+- **Camera ready papers due:** August 20th, 2023
+- **Submission website:** [cmt3/BVPAI2023](https://cmt3.research.microsoft.com/BVPAI2023)
 
 ## Credits
-Webpage project based on the [alshedivat/al-folio](https://github.com/alshedivat/al-folio) template. Workshop webpage powered by [Jekyll](https://jekyllrb.com) and hosted by [GitHub page](https://pages.github.com). We are grateful for funding provided by VentureWell, which provided partial support to the student researchers, Allie Holmgren and [Jing Yu](https://github.com/JingYu-NU).
+Webpage project based on the [alshedivat/al-folio](https://github.com/alshedivat/al-folio) template. Workshop webpage powered by [Jekyll](https://jekyllrb.com) and hosted by [GitHub page](https://pages.github.com). Many thanks to [Marco Lorusso](https://github.com/DrWatt) for help in designing, developing, and debugging the workshop webpage.
