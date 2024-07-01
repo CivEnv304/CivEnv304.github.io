@@ -81,7 +81,7 @@ nav_order: 5
 <div style="display: flex; align-items: center;">
   <img src="{{ site.baseurl }}/assets/img/materials/Canoe .png" alt="Example Image" style="margin-right: 20px; max-width: 250px;"/>
   <div>
-    <h4><a href="{{ site.baseurl }}/projects-canoe">Sheridan Road: Life cycle assessment of concrete</a> </h4>
+    <h4><a href="{{ site.baseurl }}/projects-canoe">Concrete canoe life cycle assessment</a> </h4>
     <p>Authors:  Destiny Lara, Kassie Ramirez, Aimee Sze, Julia Yazhari</p>
   </div>
 </div>
