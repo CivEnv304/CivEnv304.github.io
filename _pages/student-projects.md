@@ -52,7 +52,7 @@ nav_order: 5
   <img src="{{ site.baseurl }}/assets/img/materials/Bottle Water .png" alt="Example Image" style="margin-right: 20px; max-width: 250px;"/>
   <div>
     <h4><a href="{{ site.baseurl }}/projects-water-bottle">From production to landfill:  The life cycle analysis of a meal swipe Dasani water bottle</a> </h4>
-    <p>Authors:  Liv Brown, Adelina Amineva, James Kim, Aya Ibrahim</p>
+    <p>Authors:  Seeley McGillis, Anna Kovacs, Joselyn Council, Maria Monroy</p>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ nav_order: 5
   <img src="{{ site.baseurl }}/assets/img/materials/concrete (Sheridan Road).png" alt="Example Image" style="margin-right: 20px; max-width: 250px;"/>
   <div>
     <h4><a href="{{ site.baseurl }}/projects-concrete-road">Sheridan Road: Life cycle assessment of concrete</a> </h4>
-    <p>Authors: Brynn Stasiulis and Momodou Senghore</p>
+    <p>Authors: Liv Brown, Adelina Amineva, James Kim, Aya Ibrahim</p>
   </div>
 </div>
 
@@ -102,6 +102,6 @@ nav_order: 5
   <img src="{{ site.baseurl }}/assets/img/materials/Book.png" alt="Example Image" style="margin-right: 20px; max-width: 250px;"/>
   <div>
     <h4><a href="{{ site.baseurl }}/projects-books">LCA --print books vs e-books</a> </h4>
-    <p>Authors:  Allie Holmgren, Jackson Bremen, William Marchetta, Peter Pinder</p>
+    <p>Authors:  Brynn Stasiulis and Momodou Senghore</p>
   </div>
 </div>
