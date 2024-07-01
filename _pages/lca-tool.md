@@ -1,25 +1,36 @@
 ---
 layout: page
 permalink: /lca-tool/
-title: LCA Tool
-page_title: The EIO-LCA Tool
+title: LCA Computational Resources
+page_title: LCA Computational Resources
 description:
 nav: true
 nav_order: 4
 ---
 
-# EIO-LCA tool
 
-This is the Matlab version of the 2012 industry-by-industry model of the US economy. It is intended for users with an advanced understanding of economic input-output life cycle assessment. The file loads data from [USEEIOv2.01-411](https://github.com/USEPA/useeior/tree/v1.0.0). The script will calculate economic, social, and environmental impact/outputs. You need to have Matlab and Microsoft Office installed on your computer to use this tool fully.
+We provide a detailed video walkthrough of applying EIO-LCA to evaluate the environmental and economic impacts of manufacturing a T-shirt. Starting with a conceptual overview of LCA, we dives into a numerical example, detailing a 'cradle to consumer' analysis. This involves populating demand vectors to represent costs in terms of manufacturing, transportation, and retail sectors, all quantified in dollar amounts.
 
-The tool is available at [EIO-LCA Tool](https://github.com/JingYu-NU/EIO-LCA-tool). You can also download by clicking [here]({{ site.baseurl }}/assets/Matlab EIOLCA).
+The video further explores calculating the transportation and retailing costs associated with t-shirt orders. We demonstrate how to input values using Matlab scripts and Excel for analysis, and therefore, examine various impacts such as job creation, economic activity, and environmental effects like greenhouse gas emissions and eutrophication potential.
+
+By this video, we wish to guide the users on how to use provided tools and resources, available in an online repository, to replicate the analysis or apply it to different sectors.This comprehensive approach not only educates on the technical process of conducting an I-O LCA but also emphasizes its practical implications in real-world scenarios.
+
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/4fbfhU_6FU8?si=V3cukiZwjLLw4sWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## EIO-LCA Tool
+
+This is the Matlab version of the 2017 industry-by-industry model of the US economy. It is intended for users with an advanced understanding of economic input-output life cycle assessment. The file loads data from [USEEIOv2.01-411](https://catalog.data.gov/dataset/useeio-v2-0-1-411), and this is where we expect updates. The script will calculate economic, social, and environmental impact/outputs. You need to have Matlab and Microsoft Office installed on your computer to use this tool fully.
+
+The tool is available at [EIO-LCA Tool](https://github.com/JingYu-NU/EIO-LCA-tool).
 
 ## Files included in this archive
 
 * **data.mat**:
 Matlab storage file that stores all matrices used in the model, including the current Economic matrices and environmental matrix.
 
-  A: The 2012 industry-by-industry direct requirements matrix from USEEIOv2.01-411.
+  A: The 2012 industry-by-industry direct requirements matrix from [USEEIOv2.01-411](https://catalog.data.gov/dataset/useeio-v2-0-1-411).
 
   R: The direct + indirect impact coefficients
 

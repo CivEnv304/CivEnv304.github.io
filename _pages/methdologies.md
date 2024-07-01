@@ -1,13 +1,36 @@
 ---
 layout: page
 permalink: /Methodologies/
-title: Methodologies
-page_title: Environmental & Social Lifecycle Assessment (LCA) and Design
+title: Background on LCAs
+page_title: Background on Environmental & Social Lifecycle Assessment (LCA) and Design
 page_description:
 nav: true
 nav_order: 1
 ---
+We would like to provide a video that introduces the concept of Life Cycle Assessment (LCA) and explains the Economic Input-Output Life Cycle Assessment (EIO-LCA) method. The video delves into the EIO-LCA method, originally proposed by Wassily Leontief, explaining the fundamental equations and matrices used. We highlights how this method offers a comprehensive economy-wide assessment, including both direct and indirect environmental effects.
 
+We outline the benefits and drawbacks of EIO-LCA and mentions that the next video will provide a detailed example of how to populate a demand vector in Matlab to analyze outputs and impacts.
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/s5_decT14-U?si=KkrDpzE97WVVWiJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+For more information about standards of LCA and resources of LCA backgrounds, please refer to
+
+**ISO Standards for LCA:**
+
+[ISO 14044:2006 Environmental management — Life cycle assessment — Requirements and guidelines](https://www.iso.org/standard/38498.html)
+
+[ISO 14040:2006 Environmental management — Life cycle assessment — Principles and framework](https://www.iso.org/standard/37456.html)
+
+**More Background Videos and Excerices from VentureWell:**
+
+[Measuring Sustainability -- Life-Cycle Assessment](https://venturewell.org/tools_for_design/measuring-sustainability/life-cycle-assessment-content/)
+
+**LCA Textbook:**
+
+[H. Scott Matthews, Chris T. Hendrickson, and Deanna Matthews, Life Cycle Assessment:  Quantitative Approaches for Decisions that Matter, 2014.](https://lcatextbook.com/)
+
+
+<!--
 ### Lifecycle of goods and services
 
 #### [Process/Flow Analysis/Mapping](#Process)
