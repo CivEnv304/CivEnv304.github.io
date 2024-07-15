@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /projects-water-bottle/
-title: EIOLCA of a residential solar array installation
-page_title: EIOLCA of a residential solar array installation
-page_description:
+title: The Life Cycle Assessment of a meal swipe Dasani water bottle
+page_title: The Life Cycle Assessment of a meal swipe Dasani water bottle
 nav: false
 nav_order: 1
 ---
 
-### The Life Cycle Assessment of a meal swipe Dasani water bottle.
 <iframe width="896" height="504" src="https://www.youtube.com/embed/Nansy2SfcUE?si=FhvkUNaXZmPYFkII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
