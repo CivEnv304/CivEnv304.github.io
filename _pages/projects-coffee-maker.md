@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /projects-coffee-maker/
-title: Student Projects -- Coffee maker LCA
-page_title: Student Projects -- Coffee maker LCA
+title: The Life Cycle Assessment of Coffee Makers
+page_title: The Life Cycle Assessment of Coffee Makers
 page_description:
 nav: false
 nav_order: 1
 ---
-
-### The Life Cycle Assessment of Coffee Makers.
 
 
 <iframe width="896" height="504" src="https://www.youtube.com/embed/lURKMozvWTc?si=FSFPG0Yp37txXwvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
