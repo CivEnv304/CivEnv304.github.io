@@ -30,7 +30,7 @@ The tool is available at [EIO-LCA Tool](https://github.com/CivEnv304/EIO-LCA-too
 * **data.mat**:
 Matlab storage file that stores all matrices used in the model, including the current Economic matrices and environmental matrix.
 
-  A: The 2012 industry-by-industry direct requirements matrix from [USEEIOv2.01-411](https://catalog.data.gov/dataset/useeio-v2-0-1-411).
+  A: The 2017 industry-by-industry direct requirements matrix from [USEEIOv2.01-411](https://catalog.data.gov/dataset/useeio-v2-0-1-411).
 
   R: The direct + indirect impact coefficients
 
