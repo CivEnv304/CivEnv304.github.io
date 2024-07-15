@@ -8,7 +8,6 @@ nav: false
 nav_order: 1
 ---
 
-### The Life Cycle Assessment of the “new” Ryan Field
 
 <iframe width="896" height="504" src="https://www.youtube.com/embed/xyyRcPtHb0M?si=jfCvRNsrH6jqAUom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
