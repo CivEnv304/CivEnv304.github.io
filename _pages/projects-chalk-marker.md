@@ -8,7 +8,6 @@ nav: false
 nav_order: 1
 ---
 
-### The LCA of Chalk vs Whiteboard Marker.
 
 <iframe width="896" height="504" src="https://www.youtube.com/embed/k2cm_GfWQpA?si=IDu1IhNHAlP4vS9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
